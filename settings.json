@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "curseesmp.mcsh.io",
+    "ip": "51.79.229.20",
     "port": 11229,
-    "version": "1.20.1",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
