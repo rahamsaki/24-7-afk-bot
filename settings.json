@@ -1,8 +1,8 @@
 {
   "name": "Cursee",
   "bot-account": {
-    "username": "SoloCloudHosting",
-    "password": "",
+    "username": "Cursee",
+    "password": "SoloCloudHosting",
     "type": "offline"
   },
   "server": {
